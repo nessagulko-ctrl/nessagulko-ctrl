@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**nessagulko-ctrl/nessagulko-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I’m Nessa 👋
 
-Here are some ideas to get you started:
+I’m building a strong technical foundation with a focus on **Python, problem-solving,
+and data systems**, with the goal of pursuing a technical role in the IDF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Deepening Python proficiency through hands-on projects
+- Strengthening algorithmic thinking and core data structures
+- Writing clean, readable, and well-documented code
+- Working with structured data (CSV / JSON)
+
+### Technical skills
+- **Python** (primary focus)
+- Java (foundational experience)
+- JavaScript (basic experience)
+- Data structures: arrays, hash maps, stacks, queues
+- Git & GitHub
+
+### What you’ll find here
+This GitHub documents my technical growth through small but intentional projects,
+clear READMEs, and incremental improvements that reflect how I think and learn.
