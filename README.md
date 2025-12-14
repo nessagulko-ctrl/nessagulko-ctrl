@@ -21,4 +21,4 @@ finding patterns, comparing scenarios, and building tools that help explain what
 
 ### What you’ll find here
 Projects that reflect how I think: small but intentional tools that prioritize clarity,
-insight, and reasoning over surface-level complexity.
+insight, and reasoning.
