@@ -1,8 +1,5 @@
 ## Hi there, I’m Nessa 👋
 
-I’m building a strong technical foundation focused on **Python, analytical problem-solving,
-and data systems**, with the goal of pursuing a technical role in the IDF.
-
 I’m especially interested in using code to **extract insight from complex or messy data** —
 finding patterns, comparing scenarios, and building tools that help explain what’s really going on.
 
