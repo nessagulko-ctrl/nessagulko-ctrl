@@ -14,7 +14,6 @@ finding patterns, comparing scenarios, and building tools that help explain what
 - Java (foundational experience)
 - JavaScript (basic experience)
 - Data structures: arrays, hash maps, stacks, queues
-- Git & GitHub
 
 ### What you’ll find here
 Projects that reflect how I think: small but intentional tools that prioritize clarity,
